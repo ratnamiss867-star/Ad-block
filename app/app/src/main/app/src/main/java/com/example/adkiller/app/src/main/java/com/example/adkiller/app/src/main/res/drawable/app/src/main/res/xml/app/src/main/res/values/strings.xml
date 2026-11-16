@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">বিজ্ঞাপনের Close বাটন নিজে থেকে চাপার জন্য এই সার্ভিস দরকার।</string>
+</resources>
